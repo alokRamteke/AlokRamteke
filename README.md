@@ -6,7 +6,7 @@ I am a software engineer with a knack for crafting efficient and scalable backen
 
 <span>
 	<a href="#">
-		<img src="https://img.shields.io/badge/Experience-+5_Years-blue" />
+		<img src="https://img.shields.io/badge/Experience-+6_Years-blue" />
 	</a>
 	<a href="#">
 		<img src="https://img.shields.io/badge/Home_Country-India-10239C" />
